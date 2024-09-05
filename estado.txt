@@ -1,0 +1,5 @@
+Professor,33,Beatriz
+Professor,12,Catarina
+Professor,44,Carla
+Curso,LEGSI,33
+Curso,MIEGSI,12
